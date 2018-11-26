@@ -1,0 +1,8 @@
+<servlet>
+    <description>
+
+    </description>
+    <display-name>TestServlet</display-name>
+    <servlet-name>TestServlet</servlet-name>
+    <servlet-class>test.TestServlet</servlet-class>
+</servlet>
